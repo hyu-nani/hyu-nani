@@ -10,14 +10,14 @@
 <br>
 
 ## Work experience 🤹‍♀️
-- (00.00 - 00.00) 경력 1
+- 
 
 ## Interest 👀
 - Arduino
 - Embedded System develop
 - ESP controller Series
 
-## Make something
+## Make something 
 - YDlidar-ros lidar bot
 - Reflow hot plate
 - Electronic skate control board
