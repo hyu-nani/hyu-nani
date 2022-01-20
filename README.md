@@ -21,7 +21,7 @@
 ## Work experience 🤹‍♀️
   
 - (2021-) FLOWINUS CEO
-- (2018-2020) ROKA 
+- (2018-2020) ROKA Army
 - (2017-2018) FTEEN CTO
   
 <br/>
