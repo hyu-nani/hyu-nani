@@ -23,7 +23,6 @@
 - (2021-) FLOWINUS CEO
 - (2018-2020) ROKA
 - (2017-2018) FTEEN CTO
-- (2017) join to dong-eui university
   
 <br/>
   
