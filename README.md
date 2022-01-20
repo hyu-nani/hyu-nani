@@ -1,6 +1,7 @@
+<div align = "center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
-<div align = "center">
 
   <br/>
   <br/>
@@ -18,8 +19,14 @@
 <br>
   
 <div align = "left">
+  
 ## Work experience 🤹‍♀️
-- 
+  
+- (2021-) FLOWINUS CEO
+- (2018-2020) ROKA
+- (2017-2018) FTEEN CTO
+- (2017) join to dong-eui university
+  
 <br/>
   
 ## Interest 👀
@@ -42,4 +49,6 @@
 - DF player toilet sound system
 - TC Report generator
   
+<div align = "center">
+    
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
