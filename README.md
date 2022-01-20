@@ -1,18 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100&width=100)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=130&section=header&fontSize=100)
+
 <div align = "center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyu-nani&layout=compact)](https://github.com/hyu-nani/github-readme-stats)
-
+  <br/>
+  <br/>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+  
+<br/>
+  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baehyunhan3@gmail.com)](mailto:baehyunhan3@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyu_nani/)](https://www.instagram.com/hyu_nani/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cube_h2)](https://blog.naver.com/cube_h2)
 
+</div>
 <br>
+  
 <div align = "left">
 ## Work experience 🤹‍♀️
 - 
-
+<br/>
+  
 ## Interest 👀
 - Arduino
 - Embedded System develop
@@ -32,3 +41,5 @@
 - Notification glasses
 - DF player toilet sound system
 - TC Report generator
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
