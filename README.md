@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 ## Work experience 🤹‍♀️
 - (00.00 - 00.00) 경력 1
-- (19.00 - 19.00) 경력 2
 
 ## Interest 👀
-- 흥미1
-- 흥미2
-[출처] [Github] 깃허브에 자기소개 readme.md 내 스타일로 꾸미기 : Mark down|작성자 주힝
+- Arduino
+- Embedded System develop
+- ESP controller Series
