@@ -1,4 +1,5 @@
-[![image]
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100&width=100)
+<div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyu-nani&layout=compact)](https://github.com/hyu-nani/github-readme-stats)
 
@@ -8,7 +9,7 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cube_h2)](https://blog.naver.com/cube_h2)
 
 <br>
-
+<div align = "left">
 ## Work experience 🤹‍♀️
 - 
 
