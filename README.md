@@ -31,6 +31,7 @@
 - Arduino
 - Embedded System develop
 - ESP controller Series
+- VHDL
 
 ## Make List
 - YDlidar-ros lidar bot
