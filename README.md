@@ -18,8 +18,10 @@
 <div align = "left">
   
 ## Work experience 🤹‍♀️
-  
-- (2021-) FLOWINUS CEO
+
+- (2021-) SnT Embedded Language inspection
+- (2021-) FLOWINUS electronic company CEO
+- (2020-) university electronic major Laboratory team leader
 - (2018-2020) ROKA Army
 - (2017-2018) FTEEN CTO
   
