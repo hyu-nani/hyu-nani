@@ -21,9 +21,9 @@
 
 - (2021-) SnT Embedded Language inspection co-worker
 - (2021-) FLOWINUS electronic company CEO
-- (2020-) university electronic major Laboratory team leader
+- (2020-) Team leader of electronic major Laboratory
 - (2018-2020) ROKA Army
-- (2017-2018) FTEEN company CTO
+- (2017-2018) FTEEN health care company CTO
   
 <br/>
   
