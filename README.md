@@ -8,7 +8,12 @@
 
   
 <br/>
-  
+  <img src = "https://blogfiles.pstatic.net/MjAxODEyMTBfOTQg/MDAxNTQ0Mzc0MDk4NDUw.Yizwfbh69K96oviRzUQIhXXLxDNUKSDvthrAA8QliPMg.m85dJb4dPD_6-kXEWi8hr-mWyfkYn4xdWrytvvqTPq0g.JPEG.cube_h2/KakaoTalk_20181210_001248689.jpg"
+        height="auto"
+        width="100%"
+        alt="front1" 
+        border="0"
+    />
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baehyunhan3@gmail.com)](mailto:baehyunhan3@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cube_h2)](https://blog.naver.com/cube_h2)
 
@@ -19,11 +24,11 @@
   
 ## Work experience 🤹‍♀️
 
-- (2021-) SnT Embedded Language inspection co-worker
-- (2021-) FLOWINUS electronic company CEO
-- (2020-) Team leader of electronic major Laboratory
+- (2021-) FLOWINUS electronic company start-up
+- (2021-2022) SnT Embedded Language inspection co-worker
+- (2020-2023) Team leader of electronic major Laboratory
 - (2018-2020) ROKA Army
-- (2017-2018) FTEEN health care company CTO
+- (2017-2018) FTEEN health care wareable device company CTO
   
 <br/>
   
