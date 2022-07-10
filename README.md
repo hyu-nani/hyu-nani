@@ -55,5 +55,5 @@
   
 <div align = "center">
     
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyu-nani)](https://github.com/hyu-nani/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
