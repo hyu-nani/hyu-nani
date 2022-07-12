@@ -24,7 +24,7 @@
   
 ## Work experience 🤹‍♀️
 
-- (2021-) FLOWINUS electronic company start-up
+- (2021-) FLOWINUS electronic
 - (2021-2022) SnT Embedded Language inspection co-worker
 - (2020-2023) Team leader of electronic major Laboratory
 - (2018-2020) ROKA Army
