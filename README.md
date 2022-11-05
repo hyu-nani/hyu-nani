@@ -28,12 +28,14 @@
 - (2021-2022) SnT Embedded Language inspection student co-worker
 - (2020-2023) Team leader of electronic major Laboratory
 - (2018-2020) Republic of korea Army
-- (2017-2018) FTEEN health care wareable device company CTO
+- (2017-2018) FTEEN health care wareable device start-up company CTO
   
 <br/>
   
 ## Interest 👀
 - Arduino
+- linux
+- STM Series
 - Embedded System develop
 - ESP controller Series
 - VHDL
