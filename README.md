@@ -25,9 +25,9 @@
 ## Work experience 🤹‍♀️
 
 - (2021-) FLOWINUS electronic
-- (2021-2022) SnT Embedded Language inspection co-worker
+- (2021-2022) SnT Embedded Language inspection student co-worker
 - (2020-2023) Team leader of electronic major Laboratory
-- (2018-2020) ROKA Army
+- (2018-2020) Republic of korea Army
 - (2017-2018) FTEEN health care wareable device company CTO
   
 <br/>
@@ -52,6 +52,7 @@
 - Notification glasses
 - DF player toilet sound system
 - TC Report generator
+- smart desk of Recognize face tech 
   
 <div align = "center">
     
