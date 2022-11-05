@@ -11,7 +11,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-  
+ 
 <br/>
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baehyunhan3@gmail.com)](mailto:baehyunhan3@gmail.com)
@@ -29,8 +29,6 @@
 - (2020-2023) Team leader of electronic major Laboratory
 - (2018-2020) Republic of korea Army
 - (2017-2018) FTEEN health care wareable device start-up company CTO
-  
-<br/>
   
 ## Interest 👀
 - Arduino
@@ -60,4 +58,5 @@
 <div align = "center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyu-nani)](https://github.com/hyu-nani/github-readme-stats)
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
