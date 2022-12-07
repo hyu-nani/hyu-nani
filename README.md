@@ -60,10 +60,10 @@
 </div>
 <div style="width=50%;">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-<div>
+<div align = "center" >
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
   
