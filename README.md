@@ -58,10 +58,10 @@
   
 <div align = "center">
   <td>
-    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/9db35e42c61ed0f87a5c5a8cf319c358d2c94191/generated/languages.svg">
+    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/languages.svg">
   </td>
   <td>
-    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/9db35e42c61ed0f87a5c5a8cf319c358d2c94191/generated/overview.svg">
+    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/overview.svg">
   </td>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
