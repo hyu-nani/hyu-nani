@@ -57,9 +57,7 @@
 - <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
   
 <div align = "center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyu-nani)](https://github.com/hyu-nani/github-readme-stats)
-  
+<img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/11dbaca84ec1b0d97e5dd616ab15efd6ee03b9de/generated/overview.svg">
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
