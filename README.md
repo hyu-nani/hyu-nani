@@ -55,7 +55,7 @@
 - TC Report generator
 - smart desk of Recognize face tech 
 - <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
-  
+</div>
 <div align = "center">
   <td>
     <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/languages.svg">
@@ -63,7 +63,10 @@
   <td>
     <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/overview.svg">
   </td>
-  
+</div>
+<div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
+</div>
+<div>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
