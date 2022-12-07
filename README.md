@@ -62,4 +62,4 @@
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?hyu-nani=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?cube_h2@naver.com=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
