@@ -50,11 +50,12 @@
   
 </div>
 <div align = "center">
+  
   <td>
-    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/languages.svg">
+    <img style="margin:20px;" src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/languages.svg">
   </td>
   <td>
-    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/overview.svg">
+    <img style="margin:20px;" src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/overview.svg">
   </td>
   
 </div>
