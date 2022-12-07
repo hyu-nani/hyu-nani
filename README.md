@@ -1,4 +1,4 @@
-<style>
+
   @font-face {
       font-family: 'Pretendard-Regular';
       src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
@@ -8,7 +8,6 @@
   .page {
       font-family: 'Pretendard-Regular';
   }
-</style>
 <div class="page" align = "center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
