@@ -2,7 +2,7 @@
 <div align = "center" >
   
 
-[![Solved.achyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac hyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
  <img src = "https://blogfiles.pstatic.net/MjAxODEyMTBfOTQg/MDAxNTQ0Mzc0MDk4NDUw.Yizwfbh69K96oviRzUQIhXXLxDNUKSDvthrAA8QliPMg.m85dJb4dPD_6-kXEWi8hr-mWyfkYn4xdWrytvvqTPq0g.JPEG.cube_h2/KakaoTalk_20181210_001248689.jpg"
