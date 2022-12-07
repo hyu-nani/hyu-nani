@@ -13,9 +13,6 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
- [![Solved.ac
-hyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={hyu-nani})](https://solved.ac/{hyu-nani})
-<br/>
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baehyunhan3@gmail.com)](mailto:baehyunhan3@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cube_h2)](https://blog.naver.com/cube_h2)
@@ -64,3 +61,5 @@ hyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={hyu-nani})](https://so
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyu-nani)](https://github.com/hyu-nani/github-readme-stats)
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?hyu-nani=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
