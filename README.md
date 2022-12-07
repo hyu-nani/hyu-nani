@@ -54,7 +54,7 @@
 - DF player toilet sound system
 - TC Report generator
 - smart desk of Recognize face tech 
-- <a href="www.flowinus.co.kr">FLOWINUS WebSite</a> 
+- <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
 - 
   
 <div align = "center">
