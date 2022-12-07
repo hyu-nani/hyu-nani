@@ -57,7 +57,12 @@
 - <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
   
 <div align = "center">
-<img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/11dbaca84ec1b0d97e5dd616ab15efd6ee03b9de/generated/overview.svg">
+  <td>
+    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/11dbaca84ec1b0d97e5dd616ab15efd6ee03b9de/generated/overview.svg">
+  </td>
+  <td>
+    <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/11dbaca84ec1b0d97e5dd616ab15efd6ee03b9de/generated/languages.svg">
+  </td>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
