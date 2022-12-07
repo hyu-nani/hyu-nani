@@ -20,7 +20,7 @@
 </div>
 <br>
   
-<div align = "left">
+<div align = "left" style="left:20%;">
   
 ## Work experience 🤹‍♀️
 
@@ -68,5 +68,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 </div>
 <div>
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
