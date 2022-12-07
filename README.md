@@ -1,13 +1,24 @@
-<div align = "center">
+<style>
+  @font-face {
+      font-family: 'Pretendard-Regular';
+      src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+      font-weight: 400;
+      font-style: normal;
+  }
+  .page {
+      font-family: 'Pretendard-Regular';
+  }
+</style>
+<div class="page" align = "center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
  <img src = "https://blogfiles.pstatic.net/MjAxODEyMTBfOTQg/MDAxNTQ0Mzc0MDk4NDUw.Yizwfbh69K96oviRzUQIhXXLxDNUKSDvthrAA8QliPMg.m85dJb4dPD_6-kXEWi8hr-mWyfkYn4xdWrytvvqTPq0g.JPEG.cube_h2/KakaoTalk_20181210_001248689.jpg"
-        height="auto"
-        width="50%"
-        alt="front1" 
-        border="0"
-    />
+  height="auto"
+  width="50%"
+  alt="front1" 
+  border="0"
+ />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -55,7 +66,6 @@
 - TC Report generator
 - smart desk of Recognize face tech 
 - <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
-- 
   
 <div align = "center">
     
