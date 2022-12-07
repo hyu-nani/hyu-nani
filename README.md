@@ -24,6 +24,7 @@
   
 ## Work experience 🤹‍♀️
 
+- (2022) 2022년 한국정보기술학회 "대학생논문경진대회" 동상
 - (2021-) FLOWINUS electronic
 - (2021-2022) SnT Embedded Language inspection student co-worker
 - (2020-2023) Team leader of electronic major Laboratory
