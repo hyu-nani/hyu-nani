@@ -1,14 +1,9 @@
 
-<div align = "center" style = "@font-face {
-      font-family: 'Pretendard-Regular';
-      src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
-      font-weight: 400;
-      font-style: normal;
-  }
-  .page {
-      font-family: 'Pretendard-Regular';
-  } ">
+<div align = "center" >
   
+
+[![Solved.ac
+hyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
  <img src = "https://blogfiles.pstatic.net/MjAxODEyMTBfOTQg/MDAxNTQ0Mzc0MDk4NDUw.Yizwfbh69K96oviRzUQIhXXLxDNUKSDvthrAA8QliPMg.m85dJb4dPD_6-kXEWi8hr-mWyfkYn4xdWrytvvqTPq0g.JPEG.cube_h2/KakaoTalk_20181210_001248689.jpg"
