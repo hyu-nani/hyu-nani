@@ -63,12 +63,15 @@
   <td>
     <img src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/overview.svg">
   </td>
+  
 </div>
-<div>
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+<div style="width=50%;">
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
 <div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
   
 </div>
