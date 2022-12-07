@@ -2,7 +2,6 @@
 <div align = "center" >
   
 
-[![Solved.ac hyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
  <img src = "https://blogfiles.pstatic.net/MjAxODEyMTBfOTQg/MDAxNTQ0Mzc0MDk4NDUw.Yizwfbh69K96oviRzUQIhXXLxDNUKSDvthrAA8QliPMg.m85dJb4dPD_6-kXEWi8hr-mWyfkYn4xdWrytvvqTPq0g.JPEG.cube_h2/KakaoTalk_20181210_001248689.jpg"
@@ -14,7 +13,8 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
- 
+ [![Solved.ac
+hyu-nani](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 <br/>
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baehyunhan3@gmail.com)](mailto:baehyunhan3@gmail.com)
