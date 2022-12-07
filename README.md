@@ -58,7 +58,7 @@
   </td>
   
 </div>
-<div style="width=50%;">
+<div width = "50%">
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
