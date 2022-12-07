@@ -20,7 +20,7 @@
 </div>
 <br>
   
-<div align = "left" style="left:20%;">
+<div align = "left" left="20%" >
   
 ## Work experience 🤹‍♀️
 
@@ -55,6 +55,7 @@
 - TC Report generator
 - smart desk of Recognize face tech 
 - <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
+  
 </div>
 <div align = "center">
   <td>
