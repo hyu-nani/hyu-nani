@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
- <img src = "https://blogfiles.pstatic.net/MjAxODEyMTBfOTQg/MDAxNTQ0Mzc0MDk4NDUw.Yizwfbh69K96oviRzUQIhXXLxDNUKSDvthrAA8QliPMg.m85dJb4dPD_6-kXEWi8hr-mWyfkYn4xdWrytvvqTPq0g.JPEG.cube_h2/KakaoTalk_20181210_001248689.jpg"
+ <img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
   height="auto"
   width="50%"
   alt="front1" 
