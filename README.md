@@ -25,9 +25,9 @@
 ## Work experience 🤹‍♀️
 
 - (2022) 2022년 한국정보기술학회 "대학생논문경진대회" 동상
-- (2021-) FLOWINUS electronic
-- (2021-2022) SnT Embedded Language inspection student co-worker
-- (2020-2023) Team leader of electronic major Laboratory
+- (2022-2023) U&I 캠핑 배터리시스템 조사 팀
+- (2021-2022) SnT 임베디드 코드테스트 팀
+- (2020-2023) 전자공학과 제어시스템공학부 연구실장
 - (2018-2020) Republic of korea Army
 - (2017-2018) FTEEN health care wareable device start-up company CTO
 
