@@ -23,14 +23,16 @@
 <div align = "left" left="20%" >
   
 ## Work experience 🤹‍♀️
-
-- (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 동상
 - (2022-2023) U&I 캠핑 배터리시스템 조사 팀
 - (2021-2022) SnT 임베디드 코드테스트 팀
 - (2020-2023) 전자공학과 제어시스템공학부 연구실장
 - (2018-2020) Republic of korea Army
 - (2017-2018) FTEEN health care wareable device start-up company CTO
 
+## Award
+- (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 동상
+- (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
+  
 ## Make List
 - YDlidar-ros lidar bot
 - Reflow hot plate
