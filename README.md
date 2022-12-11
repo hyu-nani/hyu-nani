@@ -22,7 +22,7 @@
   
 <div align = "left" left="20%" >
   
-## Work experience 🤹‍♀️
+## Work experience 🏃🏻
 - (2022-2023) U&I 캠핑 배터리시스템 조사 팀
 - (2021-2022) SnT 임베디드 코드테스트 팀
 - (2020-2023) 전자공학과 제어시스템공학부 연구실장
