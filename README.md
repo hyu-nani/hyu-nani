@@ -30,11 +30,11 @@
 - (2016-2018) FTEEN health care wareable device start-up company CTO
 - (2017) 동의대학교 전자공학과 입학
 
-## Award
+## Award 🏆
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
 - (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
   
-## Make List
+## Make List 🧑🏻‍💻
 - YDlidar-ros lidar bot
 - Reflow hot plate
 - Electronic skate control board
