@@ -27,7 +27,8 @@
 - (2021-2022) SnT 임베디드 코드테스트 팀
 - (2020-2023) 전자공학과 제어시스템공학부 연구실장
 - (2018-2020) Republic of korea Army
-- (2017-2018) FTEEN health care wareable device start-up company CTO
+- (2016-2018) FTEEN health care wareable device start-up company CTO
+- (2017) 동의대학교 전자공학과 입학
 
 ## Award
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
