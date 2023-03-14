@@ -56,7 +56,7 @@
 - Notification glasses
 - DF player toilet sound system
 - TC Report generator
-- smart desk of Recognize face tech 
+- Smart desk using deep learning based face recognize
 - <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
   
 </div>
