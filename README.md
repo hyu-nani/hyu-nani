@@ -13,7 +13,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-MAIL<br/>
+E-MAIL<br/>
 Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
  
  <h2>Wellcome to my make blog </h2>
