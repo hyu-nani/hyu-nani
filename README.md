@@ -16,8 +16,6 @@
 E-MAIL<br/>
 Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
  
- <h2>Wellcome to my make blog </h2>
-  
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cube_h2)](https://blog.naver.com/cube_h2)
 
 </div>
