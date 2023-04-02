@@ -26,7 +26,7 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
 ## Work experience 🏃🏻
 - (2023.03-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     열영상기술연구소 R&D 개발 연구원
 - (2022.06-2023.01) U&I 캠핑 배터리시스템 조사 팀
-- (2021.09-2022.06) SnT 임베디드 코드테스트 팀
+- (2021.09-2022.06) SnT 임베디드 학생 코드테스트 팀
 - (2020.09-2023.01) 전자공학과 제어시스템공학부 랩장
 - (2018.05-2020.01) Republic of korea Army
 - (2016.09-2018.09) FTEEN health care wareable device start-up company
