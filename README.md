@@ -41,6 +41,7 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
 - 얼굴인식 자동 높이조절 책상(출)
 
 ## Make List 🧑🏻‍💻
+- K-segment_display
 - YDlidar-ros lidar bot
 - Reflow hot plate
 - Electronic skate control board
@@ -66,11 +67,6 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
   <td>
     <img style="margin:20px;" src="https://raw.githubusercontent.com/hyu-nani/github-stats-transparent/output/generated/overview.svg">
   </td>
-  
-</div>
-<div width="50%">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyu-nani&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 <div align = "center" >
