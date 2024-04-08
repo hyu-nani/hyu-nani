@@ -41,7 +41,7 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
 - 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
 - 얼굴인식 자동 높이조절 책상(출)
 
-## Make List 🧑🏻‍💻
+## Personal Make List 🧑🏻‍💻
 - K-segment_display
 - YDlidar-ros lidar bot
 - Reflow hot plate
@@ -57,8 +57,11 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
 - DF player toilet sound system
 - TC Report generator
 - Smart desk using deep learning based face recognize
-- <a href="https://www.flowinus.co.kr">FLOWINUS WebSite</a> 
-  
+- <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
+
+## Work Project 🧑🏻‍💻
+- Thermal camera focus function
+- 
 </div>
 <div align = "center">
   
