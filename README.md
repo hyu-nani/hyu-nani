@@ -24,8 +24,8 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
 <div align = "left" left="20%" >
   
 ## Work experience 🏃🏻
-- (2024.02-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     방산전자광학연구소 SW 연구원
-- (2023.03-2024.01) 열영상기술연구소 R&D 개발 연구원
+- (2024.02-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     TBT 방산전자광학연구소 SW 연구원
+- (2023.03-2024.01) TBT 열영상기술연구소 R&D 개발 연구원
 - (2022.06-2023.01) U&I 캠핑 배터리시스템 조사 팀
 - (2021.09-2022.06) SnT 임베디드 학생 코드테스트 팀
 - (2020.09-2023.01) 전자공학과 제어시스템공학부 랩장
