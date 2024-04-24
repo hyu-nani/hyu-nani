@@ -7,6 +7,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+
+<img alt="static badge" src="https://camo.githubusercontent.com/d37e1ad57a01d3e60768793ec8511709e5ad29d03e4400d274db0ecd75cd8e14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5542554e54552d4539353432393f7374796c653d666c6174266c6f676f3d5542554e5455266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/UBUNTU-E95429?style=flat&amp;logo=UBUNTU&amp;logoColor=white" style="max-width: 100%;">
 </div>
 <br>
   
