@@ -7,8 +7,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
 <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img alt="static badge" src="https://camo.githubusercontent.com/e80eeee929241a9514f741e87d6dd37eff46b2eeae8ec55393c4585407dc4d18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/VSCode-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
 <img alt="static badge" src="https://camo.githubusercontent.com/373257371cf0a8254b72be0d5b6f789fe8c329bbd04ace74fcc9b44503e266aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c2053747564696f2d3543324439313f7374796c653d666c6174266c6f676f3d76697375616c73747564696f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&amp;logo=visualstudio&amp;logoColor=white" style="max-width: 100%;">
