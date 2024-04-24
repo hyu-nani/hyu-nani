@@ -15,22 +15,13 @@
 <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img alt="static badge" src="https://camo.githubusercontent.com/e80eeee929241a9514f741e87d6dd37eff46b2eeae8ec55393c4585407dc4d18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/VSCode-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
-<img alt="static badge" src="https://camo.githubusercontent.com/373257371cf0a8254b72be0d5b6f789fe8c329bbd04ace74fcc9b44503e266aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c2053747564696f2d3543324439313f7374796c653d666c6174266c6f676f3d76697375616c73747564696f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&amp;logo=visualstudio&amp;logoColor=white" style="max-width: 100%;">
 <br/>
 
-<img alt="static badge" src="https://camo.githubusercontent.com/8caa8033669927a6458e9cdad0e449e4116b0bb6db7a303cc506210ba6476688/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666c6174266c6f676f3d43266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C-A8B9CC?style=flat&amp;logo=C&amp;logoColor=white" style="max-width: 100%;">
-<img alt="static badge" src="https://camo.githubusercontent.com/6393130e1bda9a03fb47b171317ee6d929fed52c9e62de93a5fda1a1328d7980/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666c6174266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" style="max-width: 100%;">
-<img alt="static badge" src="https://camo.githubusercontent.com/3f3670ec83965cdac381d91f11b2be90b2c844367caa95ecfe19fe13d7d7a599/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">
-<img alt="static badge" src="https://camo.githubusercontent.com/d37e1ad57a01d3e60768793ec8511709e5ad29d03e4400d274db0ecd75cd8e14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5542554e54552d4539353432393f7374796c653d666c6174266c6f676f3d5542554e5455266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/UBUNTU-E95429?style=flat&amp;logo=UBUNTU&amp;logoColor=white" style="max-width: 100%;">
-<img alt="static badge" src="https://camo.githubusercontent.com/53b4ea54e54621ba4b625e9d8f85d6567409f950e30cc3676d99adffbbe0f853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5261737062657272792050692d4132323834363f7374796c653d666c6174266c6f676f3d7261737062657272797069266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&amp;logo=raspberrypi&amp;logoColor=white" style="max-width: 100%;">
 
 </div>
 <br>
