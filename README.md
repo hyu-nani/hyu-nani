@@ -64,10 +64,10 @@ Gmail: baehyunhan3@gmail.com
 - Smart desk using deep learning based face recognize
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
 
-## Work Project 🧑🏻‍💻
+## Work list 🧑🏻‍💻
 - Thermal camera focus function
 - Xlinx CAN-FD Controller 
-
+- 
 
 </div>
 <div align = "center">
