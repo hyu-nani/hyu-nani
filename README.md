@@ -14,7 +14,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 E-MAIL<br/>
-Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
+Naver: cube_h2@naver.com 
+Gmail: baehyunhan3@gmail.com
  
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cube_h2)](https://blog.naver.com/cube_h2)
 
@@ -29,6 +30,7 @@ Naver: cube_h2@naver.com Gmail: baehyunhan3@gmail.com
 - (2022.06-2023.01) U&I 캠핑 배터리시스템 조사 팀
 - (2021.09-2022.06) SnT 임베디드 학생 코드테스트 팀
 - (2020.09-2023.01) 전자공학과 제어시스템공학부 랩장
+- (2020.09-2022.06) 교내 창업동아리 T-Able 팀
 - (2018.05-2020.01) Republic of korea Army
 - (2016.09-2018.09) FTEEN health care wareable device start-up company
 - (2017.02-2023.02) 동의대학교 전자공학과
