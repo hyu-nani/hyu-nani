@@ -4,13 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
- <img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
-  height="auto"
-  width="50%"
-  alt="front1" 
-  border="0"
- />
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 E-MAIL<br/>
@@ -34,6 +28,16 @@ Gmail: baehyunhan3@gmail.com
 - (2018.05-2020.01) Republic of korea Army
 - (2016.09-2018.09) FTEEN health care wareable device start-up company
 - (2017.02-2023.02) 동의대학교 전자공학과
+  
+## Project experience  
+<img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
+  height="auto"
+  width="10%"
+  alt="front1" 
+  border="0"
+ />
+  
+- Blog : <a href="blog.naver.com/cube_h2">NANI Lab
 
 ## Award 🏆
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
@@ -64,6 +68,8 @@ Gmail: baehyunhan3@gmail.com
 ## Work Project 🧑🏻‍💻
 - Thermal camera focus function
 - 
+
+
 </div>
 <div align = "center">
   
