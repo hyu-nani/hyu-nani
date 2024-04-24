@@ -32,7 +32,8 @@ Gmail: baehyunhan3@gmail.com
 ## Project experience  
 <img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
   height="auto"
-  width="10%"
+  left-margin="10px"
+  width="20%"
   alt="front1" 
   border="0"
  />
