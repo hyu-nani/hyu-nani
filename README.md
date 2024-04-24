@@ -33,7 +33,7 @@
   
 <div align = "left" left="20%" >
   
-## E-mail 
+## E-mail ✉️
 Naver: cube_h2@naver.com <br>
 Gmail: baehyunhan3@gmail.com
   
@@ -62,12 +62,12 @@ Gmail: baehyunhan3@gmail.com
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
 - (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
   
-## Patent 📂
+## Patent 📄
 - 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
 - 얼굴인식 자동 높이조절 책상(출)
 - 문자 및 특수 디스플레이 디자인 특허(출)
 
-## Personal Make List 🧑🏻‍💻
+## Personal Make List 🔩
 - K-segment_display
 - YDlidar-ros lidar bot
 - Reflow hot plate
@@ -85,7 +85,7 @@ Gmail: baehyunhan3@gmail.com
 - Smart desk using deep learning based face recognize
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
 
-## Work list 🧑🏻‍💻
+## Work list 👨‍💻
 - Thermal camera focus function
 - Xlinx CAN-FD Controller 
 - 
