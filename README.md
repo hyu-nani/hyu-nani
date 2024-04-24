@@ -36,7 +36,7 @@ Gmail: baehyunhan3@gmail.com
   alt="front1" 
   border="0"
  />
-- Blog : <a href="blog.naver.com/cube_h2">NANI LAB
+- Blog : <a href="https://blog.naver.com/cube_h2">NANI LAB
 
 ## Award 🏆
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
