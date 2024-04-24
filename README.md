@@ -44,6 +44,7 @@ Gmail: baehyunhan3@gmail.com
 ## Patent 📂
 - 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
 - 얼굴인식 자동 높이조절 책상(출)
+- 문자 및 특수 디스플레이 디자인 특허(출)
 
 ## Personal Make List 🧑🏻‍💻
 - K-segment_display
@@ -65,7 +66,7 @@ Gmail: baehyunhan3@gmail.com
 
 ## Work Project 🧑🏻‍💻
 - Thermal camera focus function
-- 
+- Xlinx CAN-FD Controller 
 
 
 </div>
