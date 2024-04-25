@@ -41,12 +41,12 @@ Gmail: baehyunhan3@gmail.com
 - (2024.02-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     TBT 방산전자광학연구소 SW 연구원
 - (2023.03-2024.01) TBT 열영상기술연구소 R&D 개발 연구원
 - (2022.06-2023.01) U&I 차량 이동형 배터리시스템 개발조사 팀
-- (2021.09-2022.06) SnT 임베디드 학생 코드테스터
-- (2021.03-2021.11) 교내 창업동아리 T-Able 팀
+- (2021.09-2022.06) SnT 임베디드 학생 코드 취약점 테스터
+- (2021.03-2021.11) 교내 창업동아리 T-Able 팀 개발팀장
 - (2020.09-2023.01) 전자공학과 제어시스템공학부 랩장
 - (2018.05-2020.01) Republic of korea Army
-- (2016.09-2018.09) FTEEN health care wareable device start-up company
-- (2017.02-2023.02) 동의대학교 전자공학과
+- (2016.09-2018.09) FTEEN health care wareable device 스타트업 개발부
+- (2017.02-2023.02) 동의대학교 전자공학과 졸업
   
 ## Project experience  
 <img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
