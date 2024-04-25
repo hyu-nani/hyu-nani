@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=100)
 
-<div align = "left" left="40%" >
+<div align = "left" left-margin="40%" >
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyu-nani&count_bg=%23FFE29C&title_bg=%23FFC849&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
 <br/>
@@ -32,7 +32,7 @@
 </div>
 <br>
   
-<div align = "left" left="40%" >
+<div align = "left" left-margin="40%" >
   
 ## E-mail ✉️
 Naver: cube_h2@naver.com <br>
