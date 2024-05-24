@@ -87,8 +87,8 @@ Gmail: baehyunhan3@gmail.com
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
 
 ## Work list 👨‍💻
-- Thermal camera focus function
-- Xlinx CAN-FD Controller 
+- Thermal camera lens action 
+- Xlinx camera contoller 
 - 
 
 </div>
