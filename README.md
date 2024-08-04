@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/xilinx-CC0000?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-6a329f?style=for-the-badge&logo=xilinx&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudio-6a329f?style=for-the-badge&logo=visual&logoColor=white">
+<img src="https://img.shields.io/badge/QT-8fce00?style=for-the-badge&logo=QT&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
