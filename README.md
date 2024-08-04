@@ -24,9 +24,11 @@
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/MicroChipStudio-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/EasyEDA-9fc5e8?style=for-the-badge&logo=EasyEDA&logoColor=white">
+<img src="https://img.shields.io/badge/EagleCAD-CC0000?style=for-the-badge&logo=EagleCAD&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
