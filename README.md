@@ -13,8 +13,10 @@
 <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/xilinx-CC0000?style=for-the-badge&logo=xilinx&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudio-6a329f?style=for-the-badge&logo=xilinx&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
@@ -39,7 +41,7 @@ Naver: cube_h2@naver.com <br>
 Gmail: baehyunhan3@gmail.com
   
 ## Work experience 🏃🏻
-- (2024.02-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     TBT 방산전자광학연구소 SW 연구원
+- (2024.02-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     TBT 방산전자광학연구소 R&D 개발 연구원
 - (2023.03-2024.01) TBT 열영상기술연구소 R&D 개발 연구원
 - (2022.06-2023.01) U&I 차량 이동형 배터리시스템 개발조사 팀
 - (2021.09-2022.06) SnT 임베디드 학생 코드 취약점 테스터
@@ -88,8 +90,12 @@ Gmail: baehyunhan3@gmail.com
 - DT10 13v code analysis tool lite result generator
   
 ## Work list 👨‍💻
-- Thermal camera lens action 
-- Xilinx camera contoller 
+- IR camera lens action 
+- Middle wave camera main controller
+- Low wave camera main controller
+- Short wave camera main controller
+- Ophir lens controller driver
+- DT_10 reliability lite analysis program
 - misra code
   
 
