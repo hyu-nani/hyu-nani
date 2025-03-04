@@ -70,7 +70,7 @@ Gmail: baehyunhan3@gmail.com
 - K-segment_display
 - YDlidar-ros lidar bot
 - 리플로우 열판 제어기 Reflow hot plate
-- 전돋 스케이트보드 Electronic skate control board
+- 전동 스케이트보드 Electronic skate control board
 - VHDL clock system
 - 3D printer
 - NAS raspberry pi
