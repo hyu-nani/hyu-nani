@@ -85,23 +85,24 @@ Gmail: baehyunhan3@gmail.com
 - DT10 종적 신뢰성 검사 프로그램 용 간이 결과 출력기 DT10 13v code analysis tool lite result generator
   
 ## Work list 👨‍💻
-- IR camera lens action 
-- Middle wave camera main controller
-- Low wave camera main controller
-- Short wave camera main controller
-- Ophir lens controller driver
+- Ophir IR lens Driver 
+- Middle wave Cam control
+- Low wave Cam control
+- Short wave Cam control
 - DT_10 reliability lite analysis program
-- misra code
+- ZetPlane Aim Cam system 
   
+  
+<!-- 
 ## Award 🏆
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
 - (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
-  
+-->  
 ## Patent 📄
 - 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
 - 얼굴인식 자동 높이조절 책상(출)
-- 문자 및 특수 디스플레이 디자인 특허(출)
-
+- 문자 및 특수 디스플레이 디자인 특허 6개
+   
 </div>
 <div align = "center">
   
