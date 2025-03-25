@@ -90,7 +90,11 @@ Gmail: baehyunhan3@gmail.com
 - Low wave Cam control
 - Short wave Cam control
 - DT_10 reliability lite analysis program
-- ZetPlane Aim Cam system 
+- ZetPlane Aim Cam system
+- CAN FD 통신 및 업데이트 개발
+- bootloader 개발 STM , xilinx
+- QT develop UI for device checking system
+- 
   
   
 <!-- 
