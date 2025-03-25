@@ -42,7 +42,7 @@
 <div align = "left" >
   
 ## E-mail ✉️
-Naver: cube_h2@naver.com <br>
+Naver: cube_h2@naver.com <br>(main)
 Gmail: baehyunhan3@gmail.com
   
 ## Work experience 🏃🏻
@@ -72,13 +72,13 @@ Gmail: baehyunhan3@gmail.com
 - 리플로우 열판 제어기 Reflow hot plate
 - 전동 스케이트보드 Electronic skate control board
 - VHDL clock system
-- 3D printer
-- NAS raspberry pi
-- Battery Package
-- Wireless RC Plane
+- 개인설계프린터 3D printer
+- 가정용 NAS raspberry pi
+- 배터리 패키지 Battery Package
+- 무선조종 RC Wireless RC Plane
 - 커피머신 제어용 패널 Coffee machine control board
 - 웨어러블 손목시계 Wearable Smart Watch
-- Notification glasses
+- 웨어러블 알림 안경 Notification glasses
 - DF 플레이어 화장실 음향 재생기 DF player toilet sound system
 - 딥러닝 얼굴인식 기반 전자동 책상 Smart desk using deep learning based face recognize
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
@@ -86,14 +86,13 @@ Gmail: baehyunhan3@gmail.com
   
 ## Work list 👨‍💻
 - Ophir IR lens Driver 
-- Middle wave Cam control
-- Low wave Cam control
-- Short wave Cam control
-- DT_10 reliability lite analysis program
+- MWIR, SWIR Cam control
+- DT_10 신뢰성 코드 테스터 라이트 버전 제작 
 - ZetPlane Aim Cam system
 - CAN FD 통신 및 업데이트 개발
-- bootloader 개발 STM , xilinx
+- STM Bootloader, xilinx multi boot
 - QT develop UI for device checking system
+- 다중 CAN 통신
 - 
   
   
