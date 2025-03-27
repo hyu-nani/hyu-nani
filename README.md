@@ -42,7 +42,7 @@
 <div align = "left" >
   
 ## E-mail ✉️
-Naver: cube_h2@naver.com <br>(main)
+Naver: cube_h2@naver.com (main)<br>
 Gmail: baehyunhan3@gmail.com
   
 ## Work experience 🏃🏻
