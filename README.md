@@ -14,6 +14,7 @@ Language
 <img src="https://img.shields.io/badge/xilinx-CC0000?style=for-the-badge&logo=xilinx&logoColor=white">
 <br/>
 TOOL
+<br/>
 <img src="https://img.shields.io/badge/VisualStudio-6a329f?style=for-the-badge&logo=visual&logoColor=white">
 <img src="https://img.shields.io/badge/QT-8fce00?style=for-the-badge&logo=QT&logoColor=white">
 <img src="https://img.shields.io/badge/Verilog-0b5394?style=for-the-badge&logo=Verilog&logoColor=white">
@@ -24,6 +25,7 @@ TOOL
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <br/>
 Device
+<br/>
 <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
@@ -31,6 +33,7 @@ Device
 <img src="https://img.shields.io/badge/MicroChipStudio-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
 <br/>
 Other
+<br/>
 <img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/EasyEDA-9fc5e8?style=for-the-badge&logo=EasyEDA&logoColor=white">
 <img src="https://img.shields.io/badge/EagleCAD-CC0000?style=for-the-badge&logo=EagleCAD&logoColor=white">
