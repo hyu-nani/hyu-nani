@@ -13,7 +13,7 @@ Language
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/xilinx-CC0000?style=for-the-badge&logo=xilinx&logoColor=white">
 <br/>
-TOOL
+Tool
 <br/>
 <img src="https://img.shields.io/badge/VisualStudio-6a329f?style=for-the-badge&logo=visual&logoColor=white">
 <img src="https://img.shields.io/badge/QT-8fce00?style=for-the-badge&logo=QT&logoColor=white">
