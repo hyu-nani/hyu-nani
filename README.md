@@ -97,6 +97,7 @@ Gmail: baehyunhan3@gmail.com
 - STM Bootloader, xilinx multi boot
 - QT develop UI for device checking system
 - 다중 CAN 통신
+- CAN FD firmware update system
 - 
   
   
