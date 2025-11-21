@@ -88,16 +88,15 @@ Gmail: baehyunhan3@gmail.com
 - DT10 종적 신뢰성 검사 프로그램 용 간이 결과 출력기 DT10 13v code analysis tool lite result generator
   
 ## Work list 👨‍💻
-- Ophir IR lens Driver 
+- Ophir IR lens 컨트롤러 자동초점 시스템
 - MWIR, SWIR Cam control
-- DT_10 신뢰성 코드 테스터 라이트 버전 제작 
-- ZetPlane Aim Cam system
-- CAN FD 통신 및 업데이트 개발
+- DT_10 신뢰성 코드 테스터 라이트 버전
+- 전** *** *** *준경
+- 능동 *** *스템
 - STM Bootloader, xilinx multi boot
 - QT develop UI for device checking system
-- 다중 CAN 통신
-- CAN FD firmware update system
-- 
+- 이중 CAN 통신 시스템
+- CAN FD 펌웨어 업데이트 기능
   
   
 <!-- 
