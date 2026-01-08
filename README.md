@@ -48,8 +48,59 @@ Other
 ## E-mail ✉️
 Naver: cube_h2@naver.com (main)<br>
 Gmail: baehyunhan3@gmail.com
+    
+## Work experience 🏃🏻
+- (2023.03-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     TBT 방산사업본부 전자광학연구소 FW,SW 연구원
+- (2022.06-2023.01) U&I 차량 이동형 배터리시스템 개발조사 팀
+- (2021.09-2022.06) SnT 임베디드 학생 코드 취약점 테스터
+- (2021.03-2021.11) 교내 창업동아리 T-Able 팀 개발팀장
+- (2020.09-2023.01) 전자공학과 제어시스템공학부 랩장
+- (2018.05-2020.01) Republic of korea Army
+- (2016.09-2018.09) FTEEN health care wareable device 스타트업 개발부
+- (2017.02-2023.02) 동의대학교 전자공학과 졸업
+
+## Work project
+[방산업은 이름 * 표시]
+- 빔**<br>
+  ㄴ열영상 카메라 연동 개발<br>
+  ㄴ방산규격 정적, 동적 펌웨어 개발<br>
+  ㄴ방산규격 신뢰성 문서 처리<br>
+  <br>
+- ***포<br>
+  ㄴ열영상 카메라 개발<br>
+  ㄴ통신 프로토콜 연동개발<br>
+  ㄴ열상 카메라 2-point PL연동 개발<br>
+  <br>
+- 초**(23.11~24.11)<br>
+  ㄴSTM32 기반 QRED 열영상 카메라 연결<br>
+  ㄴ자동 초점 기능 개발<br>
+  ㄴ오피어 렌즈 연동 개발<br>
+  <br>
+- 능동 *** 시스템(24.11~)<br>
+  ㄴpetalinux 기반 영상 처리 및 제어 시스템 개발<br>
+  ㄴ통신 프로토콜 개발<br>
+  <br>
+- 전** *** *** *준경(24.01~24.10)<br>
+  ㄴCAN 이중화 개발<br>
+  ㄴCAN FD 펌웨어 업데이트기능 개발<br>
+  ㄴPS(processing system) 개발<br>
+  ㄴ통신 프로토콜 관리 및개발<br>
+  ㄴGUI 테스트 프로그램 일부 개발<br>
+  <br>
+- 전***부(24.05~)<br>
+  ㄴ열영상 다중 테이블 알고리즘 개발<br>
+  ㄴ펌웨어 UART 업데이트 기능 개발<br>
+  ㄴQSPI 메모리 연동 개발<br>
+  <br>
+- QRED***(23.05~23.11)<br>
+  ㄴ펌웨어 업데이트 기능 개발<br>
+  ㄴ통신 프로토콜 관리<br>
+  ㄴI2C 및 SPI 개발 및 관리<br>
+  <br>
+- **백(24.11~)<br>
+  ㄴ코드관리 및 신뢰성기반 코드 관리<br>
   
-## Project experience  
+## Maker Project experience  
 <img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
   height="auto"
   left-margin="10px"
@@ -59,7 +110,7 @@ Gmail: baehyunhan3@gmail.com
  />
 - Blog : <a href="https://blog.naver.com/hyu_nani">NANI LAB
 
-## Personal Make List 🔩
+## Maker blog Make List 🔩
 - K-segment_display
 - YDlidar-ros lidar bot
 - 리플로우 열판 제어기 Reflow hot plate
@@ -76,65 +127,7 @@ Gmail: baehyunhan3@gmail.com
 - 딥러닝 얼굴인식 기반 전자동 책상 Smart desk using deep learning based face recognize
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
 - DT10 종적 신뢰성 검사 프로그램 용 간이 결과 출력기 DT10 13v code analysis tool lite result generator
-  
-## Work list 👨‍💻
-- Ophir IR lens 컨트롤러 자동초점 시스템
-- MWIR, SWIR Cam control
-- DT_10 신뢰성 코드 테스터 라이트 버전
-  ㄴpython기반 DT10 free version 신뢰성 결과 도출 프로그램개발
-- STM Bootloader, xilinx multi boot
-- QT develop UI for device checking system
-- CAN FD 펌웨어 업데이트 기능
 
-## Work experience 🏃🏻
-- (2023.03-NOW)&nbsp;&nbsp;&nbsp;&nbsp;     TBT 방산사업본부 전자광학연구소 FW,SW 연구원
-- (2022.06-2023.01) U&I 차량 이동형 배터리시스템 개발조사 팀
-- (2021.09-2022.06) SnT 임베디드 학생 코드 취약점 테스터
-- (2021.03-2021.11) 교내 창업동아리 T-Able 팀 개발팀장
-- (2020.09-2023.01) 전자공학과 제어시스템공학부 랩장
-- (2018.05-2020.01) Republic of korea Army
-- (2016.09-2018.09) FTEEN health care wareable device 스타트업 개발부
-- (2017.02-2023.02) 동의대학교 전자공학과 졸업
-  
-## Work project
-- 빔**<br>
-  ㄴ열영상 카메라 연동 개발<br>
-  ㄴ방산규격 정적, 동적 펌웨어 개발<br>
-  ㄴ방산규격 신뢰성 문서 처리<br>
-  <br>
-- ***포<br>
-  ㄴ열영상 카메라 개발<br>
-  ㄴ통신 프로토콜 연동개발<br>
-  ㄴ열상 카메라 2-point PL연동 개발<br>
-  <br>
-- 초**(23.11~24.11)<br>
-  ㄴSTM32 기반 QRED 열영상 카메라 연결<br>
-  ㄴ자동 초점 기능 개발<br>
-  ㄴ렌즈 연동 개발<br>
-  <br>
-- 능동 *** 시스템(24.11~)<br>
-  ㄴpetalinux 기반 영상 처리 및 제어 시스템 개발<br>
-  ㄴ통신 프로토콜 개발<br>
-  <br>
-- 전** *** *** *준경(24.01~24.10)<br>
-  ㄴCAN 이중화 개발<br>
-  ㄴCAN FD 펌웨어 업데이트기능 개발<br>
-  ㄴPS(processing system) 개발<br>
-  ㄴ통신 프로토콜 관리 및개발<br>
-  <br>
-- 전***부(24.05~)<br>
-  ㄴ열영상 다중 테이블 알고리즘 개발<br>
-  ㄴ펌웨어 UART 업데이트 기능 개발<br>
-  ㄴQSPI 메모리 연동 개발<br>
-  <br>
-- QRED***(23.05~23.11)<br>
-  ㄴ펌웨어 업데이트 기능 개발<br>
-  ㄴ통신 프로토콜 관리<br>
-  ㄴI2C 및 SPI 개발 및 관리<br>
-  <br>
-- **백(24.11~)<br>
-  ㄴ코드관리 및 신뢰성기반 코드 관리<br>
-  
 <!-- 
 ## Award 🏆
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
