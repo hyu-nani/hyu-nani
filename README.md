@@ -121,17 +121,17 @@ Gmail: baehyunhan3@gmail.com
   ㄴCAN FD 펌웨어 업데이트기능 개발<br>
   ㄴPS(processing system) 개발<br>
   ㄴ통신 프로토콜 관리 및개발<br>
-<br>
+  <br>
 - 전***부(24.05~)<br>
   ㄴ열영상 다중 테이블 알고리즘 개발<br>
   ㄴ펌웨어 UART 업데이트 기능 개발<br>
   ㄴQSPI 메모리 연동 개발<br>
-<br>
+  <br>
 - QRED***(23.05~23.11)<br>
   ㄴ펌웨어 업데이트 기능 개발<br>
   ㄴ통신 프로토콜 관리<br>
   ㄴI2C 및 SPI 개발 및 관리<br>
-<br>
+  <br>
 - **백(24.11~)<br>
   ㄴ코드관리 및 신뢰성기반 코드 관리<br>
   
