@@ -27,7 +27,7 @@ Tool
 <br/>
 Device
 <br/>
-<img src="https://img.shields.io/badge/Zync-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/Zynq-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
 <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
