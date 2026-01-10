@@ -94,8 +94,8 @@ Gmail: baehyunhan3@gmail.com
   ㄴ펌웨어 UART 업데이트 기능 개발<br>
   ㄴQSPI 메모리 연동 개발<br>
   <br>
-- QRED***(23.05~23.11)<br>
-  ㄴ펌웨어 업데이트 기능 개발<br>
+- TMS-10_QRED카메라(23.05~23.11)<br>
+  ㄴ펌웨어 개발 및 관리<br>
   ㄴ통신 프로토콜 관리<br>
   ㄴI2C 및 SPI 개발 및 관리<br>
   <br>
