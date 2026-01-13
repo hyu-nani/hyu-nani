@@ -64,32 +64,35 @@ Gmail: baehyunhan3@gmail.com
 ## Work project
 [방산업은 이름 * 표시]
 - 빔**(23.11~25.1)<br>
+  ㄴPS(processing system) 개발<br>
   ㄴ열영상 카메라 연동 개발<br>
-  ㄴ방산규격 정적, 동적 펌웨어 개발<br>
+  ㄴ방산규격 정적, 동적 신뢰성 코드 기반 펌웨어 개발<br>
   ㄴ방산규격 신뢰성 문서 처리<br>
   <br>
 - ***포(24.3~)<br>
+  ㄴPS(processing system) 개발<br>
   ㄴ열영상 카메라 개발<br>
-  ㄴ통신 프로토콜 연동개발<br>
+  ㄴ통신 프로토콜 연동개발(422)<br>
   ㄴ열상 카메라 2-point PL연동 개발<br>
   <br>
 - 초**(23.11~24.11)<br>
   ㄴSTM32 기반 QRED 열영상 카메라 연결<br>
-  ㄴ자동 초점 기능 개발<br>
-  ㄴ오피어 렌즈 연동 개발<br>
+  ㄴ자동 초점 기능 개발 <br>
+  ㄴ오피어 렌즈 연동 개발(SPI) <br>
   <br>
 - 능동 *** 시스템(24.11~)<br>
   ㄴpetalinux 기반 영상 처리 및 제어 시스템 개발<br>
-  ㄴ통신 프로토콜 개발<br>
+  ㄴ통신 프로토콜 개발 <br>
   <br>
 - 전** *** *** *준경(24.01~24.10)<br>
-  ㄴCAN 이중화 개발<br>
-  ㄴCAN FD 펌웨어 업데이트기능 개발<br>
   ㄴPS(processing system) 개발<br>
+  ㄴCAN 이중화 개발 (2ch CAN FD)<br>
+  ㄴCAN FD 펌웨어 업데이트기능 개발<br>
   ㄴ통신 프로토콜 관리 및개발<br>
   ㄴGUI 테스트 프로그램 일부 개발<br>
   <br>
 - 전***부(24.05~)<br>
+  ㄴPS(processing system) 개발<br>
   ㄴ열영상 다중 테이블 알고리즘 개발<br>
   ㄴ펌웨어 UART 업데이트 기능 개발<br>
   ㄴQSPI 메모리 연동 개발<br>
@@ -97,9 +100,10 @@ Gmail: baehyunhan3@gmail.com
 - TMS-10_QRED카메라(23.05~23.11)<br>
   ㄴ펌웨어 개발 및 관리<br>
   ㄴ통신 프로토콜 관리<br>
-  ㄴI2C 및 SPI 개발 및 관리<br>
+  ㄴI2C 및 SPI 부분 개발 및 관리<br>
   <br>
 - **백(24.11~)<br>
+  ㄴPS(processing system) 개발<br>
   ㄴ코드관리 및 신뢰성기반 코드 관리<br>
   
 ## Maker Project experience  
