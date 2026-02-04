@@ -82,20 +82,21 @@ Gmail: baehyunhan3@gmail.com
   <br>
 - 능동 *** 시스템(24.11~)<br>
   ㄴpetalinux 기반 영상 처리 및 제어 시스템 개발<br>
-  ㄴ통신 프로토콜 개발 <br>
+  ㄴVDMA setting 
+  ㄴ통신 프로토콜 <br>
   <br>
 - 전** *** *** *준경(24.01~24.10)<br>
   ㄴPS(processing system) 개발<br>
   ㄴCAN 이중화 개발 (2ch CAN FD)<br>
-  ㄴCAN FD 펌웨어 업데이트기능 개발<br>
-  ㄴ통신 프로토콜 관리 및개발<br>
-  ㄴGUI 테스트 프로그램 일부 개발<br>
+  ㄴCAN FD 펌웨어 업데이트기능 <br>
+  ㄴ통신 프로토콜<br>
+  ㄴGUI 테스트 프로그램 일부 <br>
   <br>
 - 전***부(24.05~)<br>
-  ㄴPS(processing system) 개발<br>
-  ㄴ열영상 다중 테이블 알고리즘 개발<br>
-  ㄴ펌웨어 UART 업데이트 기능 개발<br>
-  ㄴQSPI 메모리 연동 개발<br>
+  ㄴPS(processing system) <br>
+  ㄴ열영상 다중 테이블 알고리즘 <br>
+  ㄴ펌웨어 UART 업데이트 기능 <br>
+  ㄴQSPI 메모리 연동 <br>
   <br>
 - TMS-10_QRED카메라(23.05~23.11)<br>
   ㄴ펌웨어 개발 및 관리<br>
