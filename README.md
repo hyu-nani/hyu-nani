@@ -82,7 +82,7 @@ Gmail: baehyunhan3@gmail.com
   <br>
 - 능동 *** 시스템(24.11~)<br>
   ㄴpetalinux 기반 영상 처리 및 제어 시스템 개발<br>
-  ㄴVDMA setting 
+  ㄴVDMA refererence setting <br>
   ㄴ통신 프로토콜 <br>
   <br>
 - 전** *** *** *준경(24.01~24.10)<br>
