@@ -32,7 +32,7 @@ Device
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/MicroChipStudio-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
-<img src="https://img.shields.io/badge/PRQA-0091BD?style=for-the-badge&logo=PRQA framework&logoColor=white">
+<img src="https://img.shields.io/badge/PRQA-0091BD?style=for-the-badge&logo=PRQAframework&logoColor=white">
 <img src="https://img.shields.io/badge/CodeSonar-CC0000?style=for-the-badge&logo=CodeSonar&logoColor=white">
 <br/>
 Other
