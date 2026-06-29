@@ -21,19 +21,23 @@ Tool
 <img src="https://img.shields.io/badge/QT-8fce00?style=for-the-badge&logo=QT&logoColor=white">
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/PRQA-0091BD?style=for-the-badge&logo=PRQAframework&logoColor=white">
+<img src="https://img.shields.io/badge/CodeSonar-CC0000?style=for-the-badge&logo=CodeSonar&logoColor=white">
 <br/>
 Device
 <br/>
 <img src="https://img.shields.io/badge/Zynq-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
 <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=white">
+<br/>
+hobby
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/MicroChipStudio-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
-<img src="https://img.shields.io/badge/PRQA-0091BD?style=for-the-badge&logo=PRQAframework&logoColor=white">
-<img src="https://img.shields.io/badge/CodeSonar-CC0000?style=for-the-badge&logo=CodeSonar&logoColor=white">
+<br/>
 <br/>
 Other
 <br/>
