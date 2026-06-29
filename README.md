@@ -139,13 +139,12 @@ Gmail: baehyunhan3@gmail.com
 - DF 플레이어 화장실 음향 재생기 DF player toilet sound system
 - 딥러닝 얼굴인식 기반 전자동 책상 Smart desk using deep learning based face recognize
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
-- DT10 종적 신뢰성 검사 프로그램 용 간이 결과 출력기 DT10 13v code analysis tool lite result generator
+- DT10 동적 신뢰성 검사 프로그램용 간이 결과 출력기 DT10 13v code analysis tool lite result generator
 
-<!-- 
 ## Award 🏆
 - (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
 - (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
--->  
+
 ## Patent 📄
 - 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
 - 얼굴인식 자동 높이조절 책상(출)
