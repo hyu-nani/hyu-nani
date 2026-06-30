@@ -37,8 +37,7 @@ Device(Hobby)
 <br/>
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/MicroChipStudio-CC0000?style=for-the-badge&logo=MicroChipStudio&logoColor=white">
-<br/>
+<img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <br/>
 Other
 <br/>
@@ -113,16 +112,15 @@ Gmail: baehyunhan3@gmail.com
   ㄴPS(processing system) 개발<br>
   ㄴ코드관리 및 신뢰성기반 코드 관리<br>
   
-## Maker Project experience  
-<img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
-  height="auto"
-  left-margin="10px"
-  width="20%"
-  alt="front1" 
-  border="0"
- />
-- Blog : <a href="https://blog.naver.com/hyu_nani">NANI LAB
+## Award 🏆
+- (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
+- (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
 
+## Patent 📄
+- 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
+- 얼굴인식 자동 높이조절 책상(출)
+- 문자 및 특수 디스플레이 디자인 특허 6개
+  
 ## Maker blog Make List 🔩
 - K-segment_display
 - YDlidar-ros lidar bot
@@ -141,14 +139,16 @@ Gmail: baehyunhan3@gmail.com
 - <a href="https://www.flowinus.com">FLOWINUS WebSite</a> 
 - DT10 동적 신뢰성 검사 프로그램용 간이 결과 출력기 DT10 13v code analysis tool lite result generator
 
-## Award 🏆
-- (2022.12.02) 2022년 한국정보기술학회 "대학생논문경진대회" 우수논문상
-- (2020.12) 인공지능 자율 드론 아이디어 경진 대회 최우수상
+## Maker Project experience  
+<img src = "https://blogfiles.pstatic.net/MjAyMjEyMDlfMjY5/MDAxNjcwNTc5MTgyODc0._dBPBptRcHhIb3tM9cTSIiKks02lrVmZefV4Pcufr2Mg.FukRv16tP5e82wReDytTgBoxvfPnSCuUhJEXAgGVCIgg.PNG.cube_h2/%EB%AC%B4%EC%A0%9C-1.png/%EB%AC%B4%EC%A0%9C-1.png"
+  height="auto"
+  left-margin="10px"
+  width="20%"
+  alt="front1" 
+  border="0"
+ />
+- Blog : <a href="https://blog.naver.com/hyu_nani">NANI LAB
 
-## Patent 📄
-- 웨어러블 디바이스의 언락유니트 및 언락방법(10-2021-0015247)
-- 얼굴인식 자동 높이조절 책상(출)
-- 문자 및 특수 디스플레이 디자인 특허 6개
    
 </div>
 <div align = "center">
